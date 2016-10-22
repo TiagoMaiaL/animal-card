@@ -29,10 +29,6 @@ img {
     margin-bottom: 10px
 }
 
-.info-box p:last-child {
-    margin-bottom: 0px;
-}
-
 .info-box ul {
     list-style: none;
     padding-left: 0px;
