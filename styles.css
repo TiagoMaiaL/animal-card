@@ -1,8 +1,12 @@
 
 .card {
     width: 330px;
-    border: 1px solid #D8D8D8;
-    box-shadow: 8px 8px 0px #F2F2F2;
+    border: 1px solid #d8d8d8;
+    box-shadow: 8px 8px 0px #f2f2f2;
+}
+
+.bold {
+    font-weight: bold;
 }
 
 h3 {
@@ -19,23 +23,19 @@ img {
 .info-box {
     width: 280px;
     margin: 0 auto;
-    border: 1px solid #D8D8D8;
+    border: 1px solid #d8d8d8;
     margin-bottom: 20px;
     padding: 10px;
 }
 
-.info-box p {
-    margin-top: 0px;
+.info-box .info {
+    margin-top: 0;
     margin-bottom: 10px
 }
 
-.info-box ul {
+.info-box .aspects {
     list-style: none;
-    padding-left: 0px;
-}
-
-.info-box li span {
-    font-weight: bold;
+    padding-left: 0;
 }
 
 .fact {
