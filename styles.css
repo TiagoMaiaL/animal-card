@@ -1,1 +1,47 @@
-/* add your CSS here */
+
+.card {
+    width: 330px;
+    border: 1px solid #D8D8D8;
+    box-shadow: 8px 8px 0px #F2F2F2;
+}
+
+h3 {
+    margin-left: 15px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.info-box {
+    width: 280px;
+    margin: 0 auto;
+    border: 1px solid #D8D8D8;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.info-box p {
+    margin-top: 0px;
+    margin-bottom: 10px
+}
+
+.info-box p:last-child {
+    margin-bottom: 0px;
+}
+
+.info-box ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.info-box li span {
+    font-weight: bold;
+}
+
+.fact {
+    font-style: italic;
+}
